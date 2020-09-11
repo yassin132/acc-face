@@ -102,8 +102,8 @@ const MrFOG99 = new Discord.Client();
 const MrFOG100= new Discord.Client();
 
 
-MrFOG1.login("NzI1MDY5MzcyNDM5MjY1Mzgy.XvJX9A.Y02w8M9tlODEjmjdkn4kTCqxxqE");
-MrFOG2.login("");
+MrFOG1.login("NzUxNDAzOTEyNjE0OTAzODg4.X1Ilpg.VfF59bOiXJMMs1O73V4Xka8aBUc");
+MrFOG2.login("NzUxNDA1NTMyODUzNjk4NTkx.X1InLQ.5hyVKqDsApjZFgZzs8rRDL3tqM4");
 MrFOG3.login("");
 MrFOG4.login("");
 MrFOG5.login("");
