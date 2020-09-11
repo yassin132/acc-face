@@ -102,7 +102,7 @@ const MrFOG99 = new Discord.Client();
 const MrFOG100= new Discord.Client();
 
 
-MrFOG1.login("");
+MrFOG1.login("NzI1MDY5MzcyNDM5MjY1Mzgy.XvJX9A.Y02w8M9tlODEjmjdkn4kTCqxxqE");
 MrFOG2.login("");
 MrFOG3.login("");
 MrFOG4.login("");
